@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    background-color: crimson;
+    height: 60px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 0 20px;
+}
